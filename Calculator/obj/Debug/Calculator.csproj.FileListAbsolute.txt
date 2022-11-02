@@ -1,1 +1,12 @@
 D:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\TH-KTPM\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\TH-KTPM\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\TH-KTPM\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\TH-KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
